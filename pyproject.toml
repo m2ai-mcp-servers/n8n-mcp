@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "n8n-mcp"
+name = "m2ai-n8n-mcp"
 version = "1.0.0"
 description = "MCP server for n8n workflow management"
 readme = "README.md"

@@ -13,7 +13,7 @@
   "runtime": "python",
   "installation": {
     "pip": {
-      "package": "n8n-mcp"
+      "package": "m2ai-n8n-mcp"
     }
   },
   "configuration": {
